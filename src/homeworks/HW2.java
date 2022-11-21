@@ -1,3 +1,5 @@
+package homeworks;
+
 import java.util.Scanner;
 
 public class HW2 {
@@ -11,9 +13,9 @@ public class HW2 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the speed in mp/h: ");
-        double speed = scanner.nextDouble();
+        float speed = scanner.nextFloat();
 
-        double result = speed * 1.60934;
+        float result = speed * 1.60934f;
         System.out.println(speed + " mp/h in km/h would be equal to " + result);
     }
 }

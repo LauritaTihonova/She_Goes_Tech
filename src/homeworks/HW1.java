@@ -1,3 +1,5 @@
+package homeworks;
+
 import java.util.Scanner;
 
 public class HW1 {
@@ -5,7 +7,7 @@ public class HW1 {
 
         // Using scanner ask user to enter name and year of birth
         // Print out:
-        // Input: John, 2000
+        // basics.Input: John, 2000
         // To be shown "Your name is John and you are 22 years old"
 
         Scanner scanner = new Scanner(System.in);

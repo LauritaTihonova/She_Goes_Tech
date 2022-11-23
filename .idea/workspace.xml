@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b18781ac-3dbf-4ce9-9bb2-270ba3cf21ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/NestedIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/CharExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HW5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_09_11/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HW1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HW2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IFStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/IFStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HW3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/HW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HW4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +47,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HW4">
-    <configuration name="Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.Casting" />
+  <component name="RunManager" selected="Application.HW5">
+    <configuration name="CharExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.CharExample" />
       <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,27 +87,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.MathClass" />
+    <configuration name="HW5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.HW5" />
       <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.NestedIF" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.Loops" />
       <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW5" />
+        <item itemvalue="Application.Loops" />
+        <item itemvalue="Application.CharExample" />
         <item itemvalue="Application.HW4" />
         <item itemvalue="Application.HW3" />
-        <item itemvalue="Application.MathClass" />
-        <item itemvalue="Application.Casting" />
-        <item itemvalue="Application.NestedIF" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +139,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

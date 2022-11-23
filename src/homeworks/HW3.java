@@ -18,9 +18,9 @@ public class HW3 {
         int number = scanner.nextInt();
 
         if (number >= 90 && number <= 110) {
-            System.out.println("True!");}
-            else {
-                System.out.println("False!");
+            System.out.println("True!");
+        } else {
+            System.out.println("False!");
         }
     }
 }

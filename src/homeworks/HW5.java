@@ -1,5 +1,7 @@
 package homeworks;
 
+import java.util.Scanner;
+
 public class HW5 {
     public static void main(String[] args) {
 
@@ -19,6 +21,24 @@ public class HW5 {
         (positive int value). You can assume that there's always enough jam in Alex's shop.
         Your application should print true or false.*/
 
-        System.out.println(10/3);  // hint ?  = It can be solved in 1 line or no more than 3 lines
+        //  System.out.println(10/3);  // hint ?  = It can be solved in 1 line or no more than 3 lines
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Please enter the amount of jam in kg: ");
+        int jam = scanner.nextInt();
+
+        /*int max = 7; // max amount of jam in kg
+        System.out.println( ( (jam/7) + (jam % max) ) <=6 );*/
+
+        int jar7kg = jam / 7;
+        int jar1kg = jam % 7;
+        System.out.println( (jar7kg + jar1kg <=6 ));
+
+
+
+
+
+
+
     }
 }

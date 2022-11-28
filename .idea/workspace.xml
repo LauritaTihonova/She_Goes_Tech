@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b18781ac-3dbf-4ce9-9bb2-270ba3cf21ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tasks/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/PrintOutNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/BranchingStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/LeapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/HW5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HW5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GuessNumber">
+  <component name="RunManager" selected="Application.HM6">
+    <configuration name="BranchingStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.BranchingStatement" />
+      <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tasks.GuessNumber" />
       <module name="Java_09_11" />
@@ -60,12 +72,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.HW5" />
+    <configuration name="HM6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.HM6" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homeworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.LeapYear" />
+      <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,39 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.MathClass" />
-      <module name="Java_09_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintOutNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.PrintOutNumbers" />
-      <module name="Java_09_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HM6" />
+        <item itemvalue="Application.LeapYear" />
         <item itemvalue="Application.GuessNumber" />
+        <item itemvalue="Application.BranchingStatement" />
         <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.MathClass" />
-        <item itemvalue="Application.PrintOutNumbers" />
-        <item itemvalue="Application.HW5" />
       </list>
     </recent_temporary>
   </component>

@@ -15,8 +15,7 @@ public class HM6 {
 }
 
 
-       /* char ch;
-        for (ch = 'A'; ch <= 'Z'; ch++)
+     /*   for (char ch = 'A'; ch <= 'Z'; ch++)
             System.out.print(ch + " ");
     }
 }*/

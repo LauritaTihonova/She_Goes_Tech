@@ -1,6 +1,6 @@
 package basics;
 
-public class TwoDimensionalArray {
+public class Debugging {
     public static void main(String[] args) {
 
         // Declaring 2D array with 2 rows and 5 columns
@@ -18,17 +18,9 @@ public class TwoDimensionalArray {
         dreamCars[1][3] = "Saab";
         dreamCars[1][4] = "McLaren";
 
-        // How many rows are in array
-        System.out.println(dreamCars.length);
-
-        // How many columns are in one row
-        System.out.println(dreamCars[1].length);
 
         // i = row
         // j = column
-        // For printing out, we need loop inside of loop
-
-        // For loop
 
         for (int i = 0; i < dreamCars.length; i++) {
 
@@ -37,25 +29,6 @@ public class TwoDimensionalArray {
             }
             System.out.println();
         }
-        System.out.println();
-
-        // Same thing using nested For-Each loops
-
-        for (String [] group : dreamCars){
-            for (String car: group) {
-                System.out.print(car + " ");
-            }
-            System.out.println();
-        }
-
-
-
-
-
-
-
-
-
 
 
 

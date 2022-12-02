@@ -15,6 +15,8 @@ public class ArrayExamples {
         names[2] = "Bob";
 
         // Getting value from array
+        System.out.println(names[0]);
+        System.out.println(names[1]);
         System.out.println(names[2]);
 
         // Length

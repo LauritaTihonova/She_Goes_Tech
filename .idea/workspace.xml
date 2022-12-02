@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b18781ac-3dbf-4ce9-9bb2-270ba3cf21ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/ArrayExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/TwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/Debugging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/CreateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/MyTasks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/HM6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HM6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/ArrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/ArrayExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/TwoDimensionalArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayExamples">
+  <component name="RunManager" selected="Application.HM7">
     <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basics.ArrayExamples" />
       <module name="Java_09_11" />
@@ -60,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.GuessNumber" />
+    <configuration name="CreateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.CreateArray" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
@@ -73,25 +76,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HM6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.HM6" />
+    <configuration name="Debugging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.Debugging" />
+      <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HM7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.HM7" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homeworks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.LeapYear" />
-      <module name="Java_09_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HM7" />
+        <item itemvalue="Application.CreateArray" />
         <item itemvalue="Application.ArrayExamples" />
+        <item itemvalue="Application.Debugging" />
         <item itemvalue="Application.TwoDimensionalArray" />
-        <item itemvalue="Application.HM6" />
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.GuessNumber" />
       </list>
     </recent_temporary>
   </component>

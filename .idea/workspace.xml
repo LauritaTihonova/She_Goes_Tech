@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b18781ac-3dbf-4ce9-9bb2-270ba3cf21ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/Debugging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/HM7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/HM8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/CreateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/MyTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/PrintFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/RegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/StringExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/CapitalQuiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/ArrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/ArrayExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/TwoDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/HM7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HM7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/HM8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HM8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/MyTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/MyTasks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,48 +54,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HM7">
-    <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.ArrayExamples" />
-      <module name="Java_09_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.CreateArray" />
-      <module name="Java_09_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Debugging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.Debugging" />
-      <module name="Java_09_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HM7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.HM7" />
+  <component name="RunManager" selected="Application.PrintFormatting">
+    <configuration name="HM11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.HM11" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +68,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.TwoDimensionalArray" />
+    <configuration name="HM12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.HM12" />
+      <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.PrintFormatting" />
+      <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegularExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.RegularExpression" />
+      <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.StringExamples" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HM7" />
-        <item itemvalue="Application.CreateArray" />
-        <item itemvalue="Application.ArrayExamples" />
-        <item itemvalue="Application.Debugging" />
-        <item itemvalue="Application.TwoDimensionalArray" />
+        <item itemvalue="Application.PrintFormatting" />
+        <item itemvalue="Application.HM12" />
+        <item itemvalue="Application.HM11" />
+        <item itemvalue="Application.StringExamples" />
+        <item itemvalue="Application.RegularExpression" />
       </list>
     </recent_temporary>
   </component>
@@ -142,12 +147,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -158,6 +168,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

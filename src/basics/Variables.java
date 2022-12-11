@@ -8,7 +8,7 @@ public class Variables {
       //Initialization of number variable
         number = 10;
 
-        //Acessing the number variables value
+        //Accessing the number variables value
         System.out.println(number);
 
         //Declaring and initializing new variable at the same time

@@ -2,18 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b18781ac-3dbf-4ce9-9bb2-270ba3cf21ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basics/PrintFormatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/RegularExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/StringExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/HM10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/HM11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/HM12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/HM9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/CapitalQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Apartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/CallingApartmentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/CallingBookClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/CallingCarClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/CallingGift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/CallingTriangleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Gift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/InheritanceIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/inheritance/VehicleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/MyTasks2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/MyTasks3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/HM7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HM7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/HM8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HM8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/HM11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HM11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/HM12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HM12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tasks/MyTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/MyTasks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +62,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintFormatting">
-    <configuration name="HM11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.HM11" />
+  <component name="RunManager" selected="Application.VehicleExample">
+    <configuration name="CallingTriangleClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.CallingTriangleClass" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.*" />
+          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HM12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.HM12" />
+    <configuration name="InheritanceIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.inheritance.InheritanceIntro" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.*" />
+          <option name="PATTERN" value="oop.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.PrintFormatting" />
+    <configuration name="MyTasks2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.MyTasks2" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.*" />
+          <option name="PATTERN" value="tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegularExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.RegularExpression" />
+    <configuration name="MyTasks3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.MyTasks3" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.*" />
+          <option name="PATTERN" value="tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.StringExamples" />
+    <configuration name="VehicleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.inheritance.VehicleExample" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.*" />
+          <option name="PATTERN" value="oop.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintFormatting" />
-        <item itemvalue="Application.HM12" />
-        <item itemvalue="Application.HM11" />
-        <item itemvalue="Application.StringExamples" />
-        <item itemvalue="Application.RegularExpression" />
+        <item itemvalue="Application.VehicleExample" />
+        <item itemvalue="Application.InheritanceIntro" />
+        <item itemvalue="Application.MyTasks3" />
+        <item itemvalue="Application.MyTasks2" />
+        <item itemvalue="Application.CallingTriangleClass" />
       </list>
     </recent_temporary>
   </component>

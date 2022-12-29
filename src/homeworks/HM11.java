@@ -7,18 +7,16 @@ import java.util.regex.Pattern;
 public class HM11 {
     public static void main(String[] args) {
 
+        Scanner scanner = new Scanner(System.in);
         String answer;
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Please enter your personal number: ");
-        String personalNumber = scanner.nextLine();
-
-        Pattern pattern = Pattern.compile("[0-9]{6}-[0-9]{5}");
-        Matcher matcher = pattern.matcher(personalNumber);
-        boolean validPersonalNumber = matcher.matches();
-
         do {
+           System.out.println("Please enter your personal number: ");
+            String personalNumber = scanner.nextLine();
 
+            Pattern pattern = Pattern.compile("[0-9]{6}-[0-9]{5}");
+            Matcher matcher = pattern.matcher(personalNumber);
+            boolean validPersonalNumber = matcher.matches();
             if (validPersonalNumber) {
                 System.out.println("Your inputted personal code is valid");
             } else {

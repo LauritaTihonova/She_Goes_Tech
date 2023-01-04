@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b18781ac-3dbf-4ce9-9bb2-270ba3cf21ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/HM15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/HM15_teachers_version.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/RPS_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/AbstractClassExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/CallingFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop/abstraction/Pet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/HM15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/HM15_RPS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +49,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HM15">
-    <configuration name="HM15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.HM15" />
+  <component name="RunManager" selected="Application.CallingFish">
+    <configuration name="AbstractClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.abstraction.AbstractClassExample" />
+      <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallingFish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.abstraction.CallingFish" />
+      <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop.abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HM15_teachers_version" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.HM15_teachers_version" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
@@ -57,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.inheritance.InheritanceIntro" />
+    <configuration name="RPS_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.RPS_2" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.inheritance.*" />
+          <option name="PATTERN" value="homeworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,38 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTasks2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.MyTasks2" />
+    <configuration name="random_Ra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.random_Ra" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTasks3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tasks.MyTasks3" />
-      <module name="Java_09_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VehicleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.inheritance.VehicleExample" />
-      <module name="Java_09_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.inheritance.*" />
+          <option name="PATTERN" value="homeworks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HM15" />
-        <item itemvalue="Application.VehicleExample" />
-        <item itemvalue="Application.InheritanceIntro" />
-        <item itemvalue="Application.MyTasks3" />
-        <item itemvalue="Application.MyTasks2" />
+        <item itemvalue="Application.CallingFish" />
+        <item itemvalue="Application.AbstractClassExample" />
+        <item itemvalue="Application.RPS_2" />
+        <item itemvalue="Application.random_Ra" />
+        <item itemvalue="Application.HM15_teachers_version" />
       </list>
     </recent_temporary>
   </component>

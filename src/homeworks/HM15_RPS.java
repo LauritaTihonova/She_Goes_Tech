@@ -2,7 +2,7 @@ package homeworks;
 
 import java.util.Scanner;
 
-public class HM15 {
+public class HM15_RPS {
 
 
     public static void main(String[] args) {

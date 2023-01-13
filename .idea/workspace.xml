@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b18781ac-3dbf-4ce9-9bb2-270ba3cf21ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/Distance/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/Distance/CarCalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/Distance/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/Distance/VehicleCalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/EnumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/inner/NestedCLasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/carpet/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/carpet/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/carpet/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tasks/carpet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/grocery/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks/grocery/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,26 +44,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VehicleCalling">
+  <component name="RunManager" selected="Application.tasks.grocery.Main">
     <configuration name="CarCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeworks.Distance.CarCalling" />
       <module name="Java_09_11" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homeworks.Distance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.EnumExample" />
-      <module name="Java_09_11" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tasks.grocery.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.grocery.Main" />
+      <module name="Java_09_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tasks.grocery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tasks.grocery.Main" />
         <item itemvalue="Application.VehicleCalling" />
         <item itemvalue="Application.CarCalling" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.NestedCLasses" />
-        <item itemvalue="Application.EnumExample" />
       </list>
     </recent_temporary>
   </component>
